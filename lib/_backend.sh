@@ -84,6 +84,7 @@ GERENCIANET_CLIENT_ID=sua-id
 GERENCIANET_CLIENT_SECRET=sua_chave_secreta
 GERENCIANET_PIX_CERT=nome_do_certificado
 GERENCIANET_PIX_KEY=chave_pix_gerencianet
+OPENAI_API_KEY=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
 
 [-]EOF
 EOF
